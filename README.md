@@ -1,5 +1,5 @@
 ## Hello, World
-This is the repository for a basic home page using the [Jekyll](https://jekyllrb.com/) Minimal theme.
+This is the repository for a basic home page using the [Jekyll](https://jekyllrb.com/) [Minimal theme](https://github.com/pages-themes/minimal).
 
 Note: these pages use [GitHub-flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
