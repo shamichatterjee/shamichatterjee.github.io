@@ -1,6 +1,4 @@
 ## Hello, World
-This is the repository for a basic home page using the [Jekyll](https://jekyllrb.com/) [Minimal theme](https://github.com/pages-themes/minimal).
+This is a draft version of Shami Chatterjee's public web page, created with [HTML5UP](https://html5up.net/) using the *Read Only* theme.
 
-Note: these pages use [GitHub-flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-Last edited _2020 April 29_
+Last edited _2022 Sep 20_
